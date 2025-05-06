@@ -5,7 +5,7 @@
    Try a feature on Aztec Playground.
   </p>
   <p>
-    <a href="https://x.com/ArweaveEco"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ItsmyRyb"></a>
+    <a href="https://x.com/ItsmyRyb"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ItsmyRyb"></a>
   </p>
 
 ## Overview
